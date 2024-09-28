@@ -36,3 +36,5 @@ Aggregations: Use COUNT, SUM, AVG, MIN, and MAX functions to calculate totals, a
 Filtering: Apply WHERE clauses to filter data by year, genre, or rating thresholds.
 Grouping: Use GROUP BY to aggregate data by specific fields such as genre or director.
 Subqueries: Use subqueries for complex filtering and calculations.
+
+
